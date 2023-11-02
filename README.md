@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jagruti Gharat</h1>
 <h3 align="center">Passionate about solving complex data problems.</h3>
 
-<img align="right" alt="scaler-create-impact" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
+<img align="right" alt="scaler-create-impact" width="350" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 - 🌱 I’m currently learning **Frameworks, courses.**
 
